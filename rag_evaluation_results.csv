@@ -1,0 +1,16 @@
+Timestamp,Question,Reference_Answer,AI_Response,Score,Auditor_Reasoning
+2026-03-16 23:38:53,What is the candidate's experience with analytics engineering?,"The candidate has strong technical foundations using SQL and Python for data modeling, supported by their education at UC Berkeley."," - Has ~5 years of experience in customer-facing analytics and consulting.
+- Focus areas include understanding customer requirements, diagnosing issues, and building analytical solutions to support decision-making.
+- Experience spans healthcare and enterprise clients on complex, high-stakes projects.
+- Emphasizes design of scalable analytics solutions and translating ambiguity into structured outcomes.
+- Aims to lead teams and mentor junior associates, indicating leadership in analytics work.
+- No explicit job title or specific analytics engineering tasks (e.g., data pipelines, ETL, engineering best practices) are stated, but strong foundation in analytics and solution design implies relevant analytics engineering skills.",50.0%,"The AI GENERATED ANSWER provides relevant experience in analytics but lacks specific mention of technical skills in SQL and Python, which are crucial to the core meaning of the REFERENCE ANSWER."
+2026-03-16 23:38:56,Has the candidate worked in management consulting?,"Yes, they worked at ZS Associates focusing on operations strategy for a pharmaceutical client.","### Evaluation ###
+- Yes, the candidate notes ""five years of experience in customer-facing analytics and consulting,"" indicating prior management/consulting experience in a client-facing capacity. 
+- Specific references to ""consulting"" work and working with enterprise clients on high-stakes projects support this. 
+- No explicit title of ""management consultant,"" but the described scope aligns with management consulting activities (requirements gathering, issue diagnosis, building analytical solutions for stakeholders).
+
+Answer: Yes. The candidate has relevant consulting experience, likely within management consulting or equivalent client-focused advisory roles.",80.0%,"The AI GENERATED ANSWER conveys relevant consulting experience and aligns with management consulting activities, but lacks the specific mention of the company and focus area provided in the REFERENCE ANSWER."
+2026-03-16 23:38:59,Does the candidate have experience with AI models?,"Yes, they have hands-on experience building AI Agents, using RAG architectures, and conducting AI Evaluation."," - Yes. The candidate references building an AI-focused project (a conversational agent on an internal knowledge base) and working with AI-enabled Zendesk agents, indicating direct experience with AI models and applications. 
+- Demonstrates hands-on data / ML tooling experience (SQL, Python, AWS, Databricks) relevant to developing and maintaining AI-powered analytics pipelines. 
+- Shows ability to balance model-driven insights with usability, suggesting practical exposure to deploying or evaluating AI systems in real-world contexts.",100.0%,"The AI GENERATED ANSWER conveys the same core meaning and facts as the REFERENCE ANSWER, detailing the candidate's hands-on experience with AI models and relevant tools."
