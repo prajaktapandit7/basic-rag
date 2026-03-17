@@ -1,0 +1,35 @@
+[33mcommit 0aa43a071151a2c97b79e5d50515a77a006d74b6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/evaluation[m[33m, [m[1;31morigin/feature/evaluation[m[33m)[m
+Author: Prajakta Pandit <prajaktapandit96@gmail.com>
+Date:   Tue Mar 17 00:03:58 2026 -0500
+
+    feat: updated llm as a judge logic
+
+[33mcommit 648828a6943c63400be36b3248775f9e494db8e4[m
+Author: Prajakta Pandit <prajaktapandit96@gmail.com>
+Date:   Mon Mar 16 23:59:27 2026 -0500
+
+    feat: evaluation llm as a judge
+
+[33mcommit 571252f25ccdb55045c79b2315dada31afd3edf1[m[33m ([m[1;32mmain[m[33m, [m[1;32mfeature/metadata-ingestion[m[33m)[m
+Merge: 7390999 ac1a87f
+Author: Prajakta Pandit <144855676+prajaktapandit7@users.noreply.github.com>
+Date:   Mon Mar 16 17:05:30 2026 -0500
+
+    Merge pull request #3 from prajaktapandit7/feature/openai-integration
+    
+    feat: updating comment
+
+[33mcommit ac1a87f2543eb826c6b38e413c1090e17a1d7162[m[33m ([m[1;31morigin/feature/openai-integration[m[33m, [m[1;32mfeature/openai-integration[m[33m)[m
+Author: Prajakta Pandit <prajaktapandit96@gmail.com>
+Date:   Mon Mar 16 16:52:21 2026 -0500
+
+    feat: updating comment
+
+[33mcommit 73909990be9715b6300218633356349ffa4b8f18[m
+Merge: 6a20db9 ee4d1ac
+Author: Prajakta Pandit <144855676+prajaktapandit7@users.noreply.github.com>
+Date:   Mon Mar 16 16:30:53 2026 -0500
+
+    Merge pull request #2 from prajaktapandit7/feature/openai-integration
+    
+    feat: secure openai responses api
